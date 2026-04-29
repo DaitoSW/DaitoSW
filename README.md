@@ -32,19 +32,20 @@ I'm a passionate Full Stack Developer blending frontend finesse with backend rob
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roniyaruro@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaitoSW)
+![Connect](https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:7f0000&height=2&section=header)
+
+[![Email](https://img.shields.io/badge/roniyaruro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roniyaruro@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/DaitoSW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaitoSW)
+&nbsp;&nbsp;
+
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C0392B&center=true&vCenter=true&width=435&lines=Open+to+work+%26+collaborate;Full+Stack+Developer;Financial+Analyst+%7C+Trader)
 
 </div>
-
----
-
-### ✍️ Blog & Content
-
----
 
 
 

@@ -1,5 +1,4 @@
-![Header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Roni%20Esteban%20Yaruro%20Castillo&fontSize=50&fontColor=fff&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=B71C1C,7F0000,C0392B&height=200&section=header&text=Roni%20Esteban%20Yaruro%20Castillo&fontSize=55&fontColor=ffffff&animation=fadeIn))
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:7f0000,100:c0392b&height=200&section=header&text=Roni%20Esteban%20Yaruro%20Castillo&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45)
 <div align="center">
 
 ### Full Stack Vibe Coding Developer | Barranquilla, Colombia
@@ -16,14 +15,11 @@ I'm a passionate Full Stack Developer blending frontend finesse with backend rob
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaitoSW&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaitoSW&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaitoSW&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaitoSW&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
 </div>
 
 ---
@@ -50,14 +46,19 @@ I'm a passionate Full Stack Developer blending frontend finesse with backend rob
 
 ---
 
-### 💖 Support My Work
 
----
 
 <div align="center">
 
-⚡ I once attempted to build a website entirely out of LEGO bricks—let's just say it was a bit of a structural challenge!
+Systems Engineering student at Simón Bolívar University (9th semester), 
+passionate about building web solutions from frontend to backend. 
+Experienced with PHP, JavaScript, MySQL, Git and tools like Figma and N8n.
+I've worked as Scrum Master on university projects and as an independent 
+developer since 2021. Also a financial analyst with 2+ years trading Forex, 
+crypto and indices like the Nasdaq 100.
+
+📍 Barranquilla, Colombia · 📬 roniyaruro@gmail.com
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c0392b,50:7f0000,100:1a0000&height=100&section=footer&animation=twinkling)

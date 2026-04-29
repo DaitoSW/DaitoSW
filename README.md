@@ -26,9 +26,9 @@ I'm a passionate Full Stack Developer blending frontend finesse with backend rob
 
 ### 🌱 Currently
 
-- 📚 Learning: **Exciting new web development technologies and the intricacies of financial analysis.**
-- 🤝 Open to collaborate on: **Innovative web development projects, effective SCRUM implementations, and tools for financial analysis.**
-- 💬 Ask me about: **Web development, financial analysis of foreign exchange markets and cryptocurrencies, or how to effectively apply SCRUM in your projects.**
+-  Learning: **Exciting new web development technologies and the intricacies of financial analysis.**
+-  Open to collaborate on: **Innovative web development projects, effective SCRUM implementations, and tools for financial analysis.**
+-  Ask me about: **Web development, financial analysis of foreign exchange markets and cryptocurrencies, or how to effectively apply SCRUM in your projects.**
 
 ---
 

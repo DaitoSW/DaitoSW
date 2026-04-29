@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Roni%20Esteban%20Yaruro%20Castillo&fontSize=50&fontColor=800000&animation=fadeIn)
+![Header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Roni%20Esteban%20Yaruro%20Castillo&fontSize=50&fontColor=fff&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=B71C1C,7F0000,C0392B&height=200&section=header&text=Roni%20Esteban%20Yaruro%20Castillo&fontSize=55&fontColor=ffffff&animation=fadeIn))
 
 <div align="center">
 

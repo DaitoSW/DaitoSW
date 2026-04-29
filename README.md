@@ -46,16 +46,6 @@ Systems Engineering student at Simón Bolívar University (9th semester) with ha
 
 ---
 
-### Certifications & Training
-
-| Institution | Program | Status | Period |
-|---|---|---|---|
-| Simón Bolívar University | Systems Engineering | In progress — 9th semester | 2022 – present |
-| 1Ci Academy — Simón Bolívar University | 1Ci ERP Student Training | Completed | 2025 |
-| ITSA University Institution | Technician in Graphic Arts Finishes | Completed | 2020 – 2021 |
-| EUROCENTRES Language Academy | Basic – Intermediate English | Completed | 2020 – 2021 |
-
----
 
 ### Let's Connect
 
